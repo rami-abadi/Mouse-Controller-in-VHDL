@@ -4,3 +4,6 @@ i have designed a mouse controller unit in vhdl:
 2-we also conrol the directions by implementing x_mov and y_mov on the horizontal and vertical directions
 3-and the valid indicates a new data to be executed.
 4- the clock frequency is 50MHZ.
+
+
+All the code was implemented in Quartos and tested in ModelSim.
